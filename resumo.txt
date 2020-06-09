@@ -1,0 +1,8 @@
+link do texto: https://dl.acm.org/doi/abs/10.1145/502512.502537
+
+ O texto retrata que, de acordo com 3 jogos onlines, os jogadores conseguem fazer predições de eventos futuros incertos,
+de forma que esses jogadores consigam prever o valor de retorno de filmes de acordo com o primeiro jogo, chances de 
+conquistas de prêmios importantes como Oscar ou Grammy de acordo com o segundo jogo. E até mesmo predições sobre vitórias em 
+corridas reais de Fórmula-1 de acordo com o terceiro jogo. O texto consegue também afirmar que tais jogos podem atrair 
+jogadores motivados e bem informados, e também afirma que tais dados são muitas vezes ignorados, sendo que podem trazer 
+dados de alta qualidade.
